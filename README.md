@@ -1,0 +1,3 @@
+## Project Description
+
+In this project, I explored and deepened my understanding of PySpark, Databricks, Databricks MLflow, and Databricks Dashboards. I worked through a series of notebooks where I performed data ingestion, transformation, and analysis using PySpark within the Databricks environment. I leveraged Databricks MLflow to track experiments, manage model versions, and streamline the machine learning workflow. Additionally, I utilized Databricks Dashboards to visualize key metrics and share insights interactively. This hands-on approach allowed me to gain practical experience with the Databricks platform and its integrated tools for big data processing, machine learning, and collaborative analytics.
